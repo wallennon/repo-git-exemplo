@@ -7,3 +7,10 @@ list-style-type: none;
 html {
 background: #c0c0c0;
 }
+
+body { 
+margin: 0 auto;
+width: 800px;
+padding: 2px;
+}
+
